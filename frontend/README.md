@@ -1,4 +1,5 @@
-# frontend
+# VueJS CLI Frontend
+The frontend part of the application driven by VueJS CLI 3
 
 ## Project setup
 ```
